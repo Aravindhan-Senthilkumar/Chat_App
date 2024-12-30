@@ -83,9 +83,6 @@ Handles external integrations. Currently, it includes `firebaseAuth.js`, which m
    npx react-native run-ios     # For iOS
    ```
 
-## Screenshots
-(Add screenshots of your app here if available.)
-
 ## Technologies Used
 - **React Native**: For building cross-platform mobile applications.
 - **Firebase Authentication**: For secure and seamless user authentication.
