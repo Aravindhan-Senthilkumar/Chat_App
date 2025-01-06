@@ -2,6 +2,11 @@
 
 ChatApp is a simple messaging application built with React Native, utilizing Firebase Authentication for user login and sign-up functionality. The project is designed with a clean and modular structure, ensuring easy navigation and scalability.
 
+## 📺 Project Demo
+
+https://youtu.be/AftPdP03cUg
+
+Click the link above mentioned to watch the full demo on YouTube!
 ## Features
 - User authentication (Login & Sign-up) with Firebase Authentication.
 - Interactive and responsive UI components.
